@@ -13,6 +13,9 @@
 apt install git nodejs
 git clone https://github.com/notsopreety/AI-Termux.git
 cd AI-Termux
+npm i readline
+npm i replicate
+npm i clear
 node llama.js
 ```
 
